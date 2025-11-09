@@ -1,0 +1,1 @@
+# hide-google-ai-mode-tab-chrome-ext
